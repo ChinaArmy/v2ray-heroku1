@@ -13,7 +13,7 @@
      },
     "UUID": {
        "description": "请输入UUID（默认：自动生成 或 \"f16e98c3-5a2e-4f84-b274-80093391e1c8\"）：",
-       "value": "f16e98c3-5a2e-4f84-b274-80093391e1c8"
+       "value": "1fd6dadc-0d19-4ee7-9ebb-11b8a23ec2c2"
      },
     "AlterID": {
        "description": "请输入AlterID（默认为10）：",
@@ -25,18 +25,18 @@
      }, 
     "V2_Path": {
        "description": "请输入Pattern（默认为 \"/shellscript\"）：",
-       "value": "/shellscript"
+       "value": "/ChinaArmy"
      },
     "V2_QR_Path": {
        "description": "请输入二维码和订阅地址路径（默认为subscription；如AppName变量为\"no\"，则此项无效）：",
-       "value": "subscription"
+       "value": "subscription-bb"
      },
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "请输入每个连接的缓存大小（单位MB，默认10）：",
        "value": "10"
      }
   },
-  "website": "https://github.com/shell-script/v2ray-heroku",
-  "repository": "https://github.com/shell-script/v2ray-heroku",
+  "website": "https://github.com/ChinaArmy/v2ray-heroku",
+  "repository": "https://github.com/ChinaArmy/v2ray-heroku",
   "stack": "container"
  }
